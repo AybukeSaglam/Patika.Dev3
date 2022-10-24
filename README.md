@@ -25,7 +25,7 @@ Sayılara tek tek bakarız. Büyük olanlar sağ tarafa, küçük olanlar sol ta
 
 2, 7 ve 5'in solunda, 1'in solunda,3'ün sağında bulunur
 
-
+www.patika.dev
 
                           7
                          / \
@@ -38,4 +38,4 @@ Sayılara tek tek bakarız. Büyük olanlar sağ tarafa, küçük olanlar sol ta
                      2   4
                      
                      
-                      www.patika.dev
+                      
